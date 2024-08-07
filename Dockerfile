@@ -1,4 +1,4 @@
-FROM promovaweb/n8n-community-nodes:1.54.0
+FROM promovaweb/n8n-community-nodes:latest
 
 ARG PGPASSWORD
 ARG PGHOST
